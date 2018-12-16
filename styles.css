@@ -1,0 +1,61 @@
+.slider_NB img {
+    height: 70vh;
+    object-fit: cover;
+}
+
+.card-deck {
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+
+.card {
+    border: none;
+}
+
+.card img {
+    border: 1px solid lightgrey;
+    height: 30vh;
+}
+
+.card button {
+    width: 100%;
+}
+
+.advert_deeper_NB {
+    border: 1px solid lightgrey;
+    padding-left: 10px;
+}
+
+.topproducts_NB {
+    width: 280px;
+}
+
+.topproducts_NB img {
+    width: 100px;
+    height: 100px;
+    border: 1px solid lightgrey;
+
+}
+
+.fontsize_NB {
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+.footer_NB {
+    border: 1px solid lightgrey;
+    background-color: lightcyan;
+}
+
+.footer_NB ul li {
+    list-style-type: none;
+    padding-bottom: 10px;
+}
+
+@media (max-width: 1200px) {
+    .disply_NB {
+        display: none;
+    }
+}
